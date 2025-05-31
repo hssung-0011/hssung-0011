@@ -6,5 +6,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hssung-0011&hide_progress=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hssung-0011)](https://github.com/anuraghazra/github-readme-stats)
+
 
